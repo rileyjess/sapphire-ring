@@ -19,12 +19,12 @@ Acceptance Criteria:
 ![Task Board Screenshot](https://github.com/user-attachments/assets/a562e486-b17e-4300-b1d9-18cbe70a05d3)
 
 ## Deployed Website URL
-
+https://rileyjess.github.io/sapphire-seas/
 
 ## Credits
 Starter code in the HTML, CSS, and JavaScript files were copied from: https://github.com/coding-boot-camp/musical-happiness
 
-Modal and form components were copied from Bootstrap: https://getbootstrap.com/docs/4.0/components/modal/
+Modal and form components in the HTML file were copied from Bootstrap: https://getbootstrap.com/docs/4.0/components/modal/
 
 The code in the JavaScript functions was pulled from the Module 5 mini project and modified to work for this task board.
 
