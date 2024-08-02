@@ -16,7 +16,7 @@ Acceptance Criteria:
 - When the page is refreshed, the saved tasks persist
 
 ## Website Screenshot
-
+![Task Board Screenshot](https://github.com/user-attachments/assets/a562e486-b17e-4300-b1d9-18cbe70a05d3)
 
 ## Deployed Website URL
 
